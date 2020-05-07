@@ -1,4 +1,4 @@
-# MongoDB_Python_FlaskAPI
+# A Flask API that communicates with a MongoDB database to add, delete, and update into it.
 Simple Flask API to manipulate data from a simple MongoDB database.
 To execute the API
 1. Start by creating a Mongo database.
